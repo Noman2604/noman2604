@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noman2604&color=blueviolet&style=flat-square&label=Profile+views" alt="Profile Views"/>
   <a href="https://nomanpatel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live_3D-4fd1c5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Live" /></a>
   <a href="https://linkedin.com/in/noman-patel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
@@ -16,7 +15,7 @@
 
 <div align="center">
 
-> *"I build full-stack products that feel fast, clear, and finished."*
+> _"I build full-stack products that feel fast, clear, and finished."_
 
 Full-Stack Developer focused on building modern web applications using **Next.js**, **React**, **TypeScript**, and **MongoDB**. From responsive user interfaces to secure backend APIs and interactive 3D web experiences, I enjoy turning ideas into high-performance, maintainable software products.
 
